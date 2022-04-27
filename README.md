@@ -2,4 +2,8 @@
 
 # HTML Bootcamp
 
-coded by Rafael Bueno
+Sempre buscando inovação e manter as boas práticas e uma boa semântica com html e css.
+
+coded by Rafael Bueno.
+
+Tks.
